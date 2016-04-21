@@ -1,2 +1,2 @@
 # DomainDrivenDesign
-Project using Domain Driven Design and ASPNET MVC.
+Project using C#, Domain Driven Design and ASPNET MVC.
